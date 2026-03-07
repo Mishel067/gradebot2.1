@@ -30,13 +30,13 @@ The bot has been manually tested against:
 ## 📸 Screenshots
 
 ![Adding grades](screenshots/gradebot_add.png)
-*Only valid subjects are accepted*
-
 ![Statistics](screenshots/gradebot_stats.png)
-*Clear, structured output*
+![Progress graph](screenshots/gradebot_graph.png)
+![export](screenshots/gradebot_export.png)
+![start message](screenshots/gradebot_start.png)
+![help](screenshots/gradebot_help.png)
+![import](screenshots/gradebot2.0_import.png)
 
-![Graph](screenshots/gradebot_graph.png)
-*Visual progress tracking*
 
 ## 🛠️ Tech Stack
 
@@ -52,4 +52,5 @@ The bot has been manually tested against:
 2. Set it in the code:
 
 ```python
+
 BOT_TOKEN = "your_token_here"
